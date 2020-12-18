@@ -4,11 +4,13 @@
 ### 📫 Project
 - 간단 가계부 (project---AccountBook) / 개인
 - SNS 서비스 (project-SNSProject) / 개인
+- 오늘 뭐 볼까?(project---MovieApp) / 개인
 
 
 ### ⚡ Stack
 - JAVA
 - Kotlin
+- AndroidStudio
 
 
 <!--
