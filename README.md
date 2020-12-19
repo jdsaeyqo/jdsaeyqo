@@ -15,6 +15,8 @@
 ###### 실력 향상을 위해 끊임없이 공부하고 새로운 기술들을 도입하여 개발자로써의 자기계발에도 힘쓸것입니다.
 
 
+* * *
+
 ### 📫 Project
 - Cash Book (project---AccountBook) / 개인
 - 반가워 (project-SNSProject) / 개인
