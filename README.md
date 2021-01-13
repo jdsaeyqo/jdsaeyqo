@@ -20,8 +20,8 @@
 - Cash Book (project---AccountBook) / 개인
 - 반가워 (project-SNSProject) / 개인
 - 오늘 뭐 볼까?(project---MovieApp) / 개인
-- Toy Procject : toy-room, toy-counter
-- JetPack-Hilt
+- 그 외 작은 프로젝트 : toy-room, toy-counter, JetPack-Hilt 등
+
 
 
 
