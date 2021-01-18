@@ -32,6 +32,10 @@
 - Kotlin
 - AndroidStudio
 
+### 기타 
+알고리즘, 자료구조 개인 학습 블로그
+jdsaeyqo-code.tistory.com
+
 
 <!--
 **jdsaeyqo/jdsaeyqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
