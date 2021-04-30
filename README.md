@@ -20,7 +20,8 @@
 - Cash Book (project---AccountBook) / 개인
 - 반가워 (project-SNSProject) / 개인
 - 오늘 뭐 볼까?(project---MovieApp) / 개인
-- 그 외 작은 프로젝트 : 뽀모도로 타이머, 비밀 다이어리, 심플 웹브라우저 등
+- 관심사 같은 친구 찾기(project-aws-nodejs-mysql)
+- 그 외 작은 프로젝트 등
 
 
 
