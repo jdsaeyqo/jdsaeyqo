@@ -20,7 +20,7 @@
 - Cash Book (project---AccountBook) / 개인
 - 반가워 (project-SNSProject) / 개인
 - 오늘 뭐 볼까?(project---MovieApp) / 개인
-- 관심사 같은 친구 찾기(project-aws-nodejs-mysql)
+- 관심사 같은 친구 찾기(aws-nodejs-mysql)
 - 그 외 작은 프로젝트 등
 
 
