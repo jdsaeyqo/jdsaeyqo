@@ -17,38 +17,16 @@
 * * *
 
 ### 📫 Project
-- Cash Book (project---AccountBook) / 개인
-- 반가워 (project-SNSProject) / 개인
-- 오늘 뭐 볼까?(project---MovieApp) / 개인
-- 관심사 같은 친구 찾기(aws-nodejs-mysql)
-- 그 외 작은 프로젝트 등
-
+- 하조(플래너 생성 및 공유 서비스)
+- Indive (블록체인 기반 인디 뮤지션 후원 서비스)
+- 우리집 (가족 소통 SNS 서비스)
 
 
 
 * * *
 
 ### ⚡ Stack
-- JAVA
+- Java
 - Kotlin
 - AndroidStudio
 
-### 기타 
-알고리즘, 자료구조 개인 학습 블로그
-jdsaeyqo-code.tistory.com
-
-
-<!--
-**jdsaeyqo/jdsaeyqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
