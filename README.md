@@ -26,7 +26,15 @@
 * * *
 
 ### ⚡ Stack
-- Java
-- Kotlin
-- AndroidStudio
+![icon](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+![icon](https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=java&logoColor=white)
+![icon](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+![icon](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)  
+  
+![icon](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![icon](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white)
+![icon](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) 
+
+
+
 
